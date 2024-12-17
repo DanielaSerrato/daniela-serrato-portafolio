@@ -1,7 +1,7 @@
 title: "Daniela Serrato | BI Portfolio"
 description: "Bilingual Business Intelligence Portfolio showcasing projects."
-baseurl: ""  # Déjalo vacío
-url: "https://danielaserrato.github.io"  # Reemplázalo con tu URL correcta
+baseurl: "/daniela-serrato-portafolio"  # Incluye el nombre del repositorio
+url: "https://danielaserrato.github.io"
 markdown: kramdown
 theme: null
 

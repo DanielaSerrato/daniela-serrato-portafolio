@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Portafolio de Business Intelligence | Daniela Serrato  
 
 Bienvenido a mi portafolio profesional. Aquí encontrarás proyectos destacados en **Inteligencia de Negocios** y **Análisis de Datos**.  

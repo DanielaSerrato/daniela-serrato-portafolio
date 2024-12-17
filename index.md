@@ -4,8 +4,11 @@
 
 🌐 **Select your language | Selecciona tu idioma**  
 
-- 🇪🇸 [Español](es/index.md)  
+- 🇪🇸 [Español](es/index.md)
 - 🇬🇧 [English](en/index.md)  
+
+[Español](es/index.md)
+[English](en/index.md)
 
 ---  
 

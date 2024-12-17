@@ -10,3 +10,8 @@
 
 Bienvenido a mi portafolio.  
 Welcome to my portfolio.  
+
+---
+layout: default
+title: Home
+---

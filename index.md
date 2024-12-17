@@ -9,8 +9,8 @@ Soy Daniela Serrato, especialista en Business Intelligence y Transformación Dig
 Aquí podrás ver mis proyectos, mi experiencia profesional, y más sobre mi formación.
 
 ### Enlaces rápidos | Quick Links
-- [Proyectos | Projects](en/projects/index.md)  
-- [Hoja de Vida | Resume](cv.md)  
+- [Proyectos | Projects](en/index.md)  
+- [Hoja de Vida | Resume](en/cv.md)  
 - [Contacto | Contact](es/contacto.md)
 
 ---

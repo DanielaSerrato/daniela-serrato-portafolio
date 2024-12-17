@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Business Intelligence Portfolio | Daniela Serrato  
 
 Welcome to my professional portfolio, where I showcase impactful **Business Intelligence** and **Data Analysis** projects.  

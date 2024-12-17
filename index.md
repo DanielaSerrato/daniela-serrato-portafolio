@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Portafolio Profesional | Professional Portfolio  
+# Welcome | Bienvenido  
 
-🌐 **Selecciona tu idioma | Choose your language**  
+🌐 **Select your language | Selecciona tu idioma**  
 
 - 🇪🇸 [Español](es/index.md)  
 - 🇬🇧 [English](en/index.md)  

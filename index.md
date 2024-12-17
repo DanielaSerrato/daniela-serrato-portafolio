@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 
 # Portafolio Profesional | Professional Portfolio  
 
@@ -11,7 +15,3 @@
 Bienvenido a mi portafolio.  
 Welcome to my portfolio.  
 
----
-layout: default
-title: Home
----

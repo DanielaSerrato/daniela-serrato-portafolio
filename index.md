@@ -1,17 +1,16 @@
-
+---
+layout: default
+title: Home
+---
 
 # Welcome | Bienvenido  
 
 🌐 **Select your language | Selecciona tu idioma**  
 
-- 🇪🇸 [Español](es/index.md)
-- 🇬🇧 [English](en/index.md)  
+- 🇪🇸 [Español](es/index.md)  
+- 🇬🇧 [English](en/index.md)
 
-[Español](es/index.md)
-[English](en/index.md)
-
----  
+---
 
 Bienvenido a mi portafolio.  
-Welcome to my portfolio.  
-
+Welcome to my portfolio.

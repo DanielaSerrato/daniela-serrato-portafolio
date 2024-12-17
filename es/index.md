@@ -1,7 +1,3 @@
----
-layout: default
-title: Home
----
 
 # Portafolio de Business Intelligence | Daniela Serrato  
 

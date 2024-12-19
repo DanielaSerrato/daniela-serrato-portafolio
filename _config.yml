@@ -5,23 +5,14 @@ baseurl: "/daniela-serrato-portafolio"  # The repository name (if the site is ho
 url: "https://danielaserrato.github.io"
 markdown: kramdown
 
-# Jekyll theme settings
-remote_theme: pages-themes/minimal@v0.2.0  # Use Minimal theme from GitHub Pages
-plugins:
-  - jekyll-remote-theme
-
-# Optional settings for theme customization
+# Custom settings
 logo: /assets/img/logo.png  # Make sure the logo exists in the assets folder
 show_downloads: true  # Optional, to enable a download button (if desired)
 
 # Google Analytics configuration
 google_analytics:
-  tracking_id: "G-QX0YV45X7B"  # Replace with your actual Google Analytics tracking ID
+  tracking_id: "G-QX0YV45X7B"  # Replace this with your actual Google Analytics tracking ID
 
 # Custom stylesheets (optional)
-# Uncomment below to add custom CSS
 # sass:
 #   style: expanded  # Choose between expanded or compressed CSS
-
-# Additional settings for layout or content customization can go here
-

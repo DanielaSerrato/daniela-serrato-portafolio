@@ -1,7 +1,24 @@
+# General site configuration
 title: "Daniela Serrato | BI Portfolio"
 description: "Bilingual Business Intelligence Portfolio showcasing projects."
-baseurl: "/daniela-serrato-portafolio"  # Incluye el nombre del repositorio
+baseurl: "/daniela-serrato-portafolio"  # The repository name (if the site is hosted in a subdirectory)
 url: "https://danielaserrato.github.io"
 markdown: kramdown
-theme: null
 
+# Jekyll theme settings
+remote_theme: pages-themes/minimal@v0.2.0  # This loads the Minimal theme from GitHub Pages
+plugins:
+  - jekyll-remote-theme
+
+# Optional settings for theme customization
+logo: /assets/img/logo.png  # Make sure the logo exists in the assets folder
+show_downloads: true  # Optional, to enable a download button (if desired)
+google_analytics:  # If you want to use Google Analytics, insert your tracking ID here
+  tracking_id: "UA-XXXXX-Y"  # Example placeholder (replace with your actual ID)
+
+# Custom stylesheets (optional)
+# Uncomment below to add custom CSS
+# sass:
+#   style: expanded  # Choose between expanded or compressed CSS
+
+# Additional settings for layout or content customization can go here

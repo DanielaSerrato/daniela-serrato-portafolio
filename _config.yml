@@ -4,12 +4,6 @@ description: "Bilingual Business Intelligence Portfolio showcasing projects."
 baseurl: "/daniela-serrato-portafolio"  # The repository name (if the site is hosted in a subdirectory)
 url: "https://danielaserrato.github.io"
 markdown: kramdown
-<<<<<<< HEAD
-=======
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme # Add this line to the plugins list if you already have one
->>>>>>> 8f0d9a38bc2e1807cdac5edf27e70f161e8c75cc
 
 # Jekyll theme settings
 remote_theme: pages-themes/minimal@v0.2.0  # This loads the Minimal theme from GitHub Pages
@@ -19,8 +13,10 @@ plugins:
 # Optional settings for theme customization
 logo: /assets/img/logo.png  # Make sure the logo exists in the assets folder
 show_downloads: true  # Optional, to enable a download button (if desired)
-google_analytics:  # If you want to use Google Analytics, insert your tracking ID here
-  tracking_id: "UA-XXXXX-Y"  # Example placeholder (replace with your actual ID)
+
+# Google Analytics configuration
+google_analytics:
+  tracking_id: "G-QX0YV45X7B"  # Replace this with your actual Google Analytics tracking ID
 
 # Custom stylesheets (optional)
 # Uncomment below to add custom CSS

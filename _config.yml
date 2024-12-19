@@ -1,18 +1,22 @@
 # General site configuration
+# Configuración básica
 title: "Daniela Serrato | BI Portfolio"
 description: "Bilingual Business Intelligence Portfolio showcasing projects."
-baseurl: "/daniela-serrato-portafolio"  # The repository name (if the site is hosted in a subdirectory)
+baseurl: "/daniela-serrato-portafolio"  # El nombre del repositorio (si el sitio está alojado en un subdirectorio)
 url: "https://danielaserrato.github.io"
-markdown: kramdown
+markdown: kramdown  # Puedes usar kramdown para el formato de Markdown
 
-# Custom settings
-logo: /assets/img/logo.png  # Make sure the logo exists in the assets folder
-show_downloads: true  # Optional, to enable a download button (if desired)
+# Configuración personalizada
+logo: /assets/img/logo.png  # Asegúrate de que el logo exista en la carpeta de assets
+show_downloads: true  # Activa un botón de descarga (si lo deseas)
 
-# Google Analytics configuration
+# Google Analytics (opcional)
 google_analytics:
-  tracking_id: "G-QX0YV45X7B"  # Replace this with your actual Google Analytics tracking ID
+  tracking_id: "G-QX0YV45X7B"  # Sustituye este valor con tu ID de seguimiento real
 
-# Custom stylesheets (optional)
-# sass:
-#   style: expanded  # Choose between expanded or compressed CSS
+# Estilos personalizados (Sass o CSS)
+sass:
+  style: expanded  # Elige entre expanded o compressed CSS, si decides usar Sass
+
+# Métodos de trabajo
+theme: ""  # No usaremos ningún tema, dejamos el valor vacío

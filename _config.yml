@@ -6,7 +6,7 @@ url: "https://danielaserrato.github.io"
 markdown: kramdown
 
 # Jekyll theme settings
-remote_theme: pages-themes/minimal@v0.2.0  # This loads the Minimal theme from GitHub Pages
+remote_theme: pages-themes/minimal@v0.2.0  # Use Minimal theme from GitHub Pages
 plugins:
   - jekyll-remote-theme
 
@@ -16,7 +16,7 @@ show_downloads: true  # Optional, to enable a download button (if desired)
 
 # Google Analytics configuration
 google_analytics:
-  tracking_id: "G-QX0YV45X7B"  # Replace this with your actual Google Analytics tracking ID
+  tracking_id: "G-QX0YV45X7B"  # Replace with your actual Google Analytics tracking ID
 
 # Custom stylesheets (optional)
 # Uncomment below to add custom CSS
@@ -24,3 +24,4 @@ google_analytics:
 #   style: expanded  # Choose between expanded or compressed CSS
 
 # Additional settings for layout or content customization can go here
+

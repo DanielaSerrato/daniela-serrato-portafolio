@@ -3,5 +3,7 @@ description: "Bilingual Business Intelligence Portfolio showcasing projects."
 baseurl: "/daniela-serrato-portafolio"  # Incluye el nombre del repositorio
 url: "https://danielaserrato.github.io"
 markdown: kramdown
-theme: null
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme # Add this line to the plugins list if you already have one
 

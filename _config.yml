@@ -4,6 +4,12 @@ description: "Bilingual Business Intelligence Portfolio showcasing projects."
 baseurl: "/daniela-serrato-portafolio"  # The repository name (if the site is hosted in a subdirectory)
 url: "https://danielaserrato.github.io"
 markdown: kramdown
+<<<<<<< HEAD
+=======
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme # Add this line to the plugins list if you already have one
+>>>>>>> 8f0d9a38bc2e1807cdac5edf27e70f161e8c75cc
 
 # Jekyll theme settings
 remote_theme: pages-themes/minimal@v0.2.0  # This loads the Minimal theme from GitHub Pages
